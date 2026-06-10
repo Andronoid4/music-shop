@@ -1,0 +1,6 @@
+{
+  "name": "Информационная система музыкального магазина",
+  "description": "Курсовой проект: Информационная система музыкального магазина с базой данных SQL, Express бэкендом и интерфейсом на React",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
